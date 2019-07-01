@@ -1,4 +1,4 @@
-package e.dell.project1.ModelData;
+package e.dell.project1.modeldata;
 
 public class Model {
 

@@ -6,4 +6,6 @@
     <string name="str_amount">Amount</string>
     <string name="str_time">Time</string>
     <string name="str_date">Date</string>
+    <string name="str_update">Update</string>
+    <string name="str_delete">Delete</string>
 </resources>
